@@ -1,0 +1,75 @@
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+  }
+  
+  h2{
+    font-family: "Playfair Display", serif;
+    font-weight: normal;
+    font-size: 16px;
+  }
+  
+  #main{
+    display: flex;
+    justify-content: center;
+    background-color: darkgray;
+   
+  }
+  
+  #title {
+     text-align: center;
+   }
+  
+  h2{
+    padding-bottom:30px;
+  }
+  
+  #img-div {
+    width: 90%;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 50%;
+  
+  }
+  
+  
+  #img-caption{
+     text-align: center;
+     font-style: italic;
+     padding: 10px;
+   }
+  
+  h3{
+    padding-top: 20px;
+    text-align: center;
+  }
+  
+  #tribute-info{
+     max-width: 100%;
+     display: block; 
+     text-align: left;
+     padding: 0 10px 0 10px;
+     marging: 50px;
+   }
+  
+  .main-text{
+    text-indent: 20px;
+    text-align: justify;
+  }
+  
+  
+  #tribute-link{
+     color: #008080;
+     float: right;
+  }
+  
+  
